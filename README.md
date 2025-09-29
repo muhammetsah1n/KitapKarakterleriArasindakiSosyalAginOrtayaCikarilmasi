@@ -1,4 +1,4 @@
-# Proje'nin Tam Adı
+# Proje
 - Social Network Analysis Yöntemi ile Kitap Karakterleri Arasındaki Sosyal Ağın Ortaya Çıkarılması
 
 ## Amaç/Motivasyon
