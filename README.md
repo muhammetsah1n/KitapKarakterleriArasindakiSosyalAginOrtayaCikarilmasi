@@ -17,7 +17,7 @@
 
 - Kalan isimler, kullanıcıya interaktif bir onay süreciyle tek tek gösterilmiş, onaylanan isimler “characters.txt” dosyasına kaydedilmiştir.
 
-- Karakterler arası ilişkilerin çıkarılmasında, kitap paragraflar bazında analiz edilmiş ve aynı paragraf içinde birlikte geçen karakterler birbiriyle bağlantılı kabul edilmiştir. Bu bağlantılar üzerinden bir co￾occurrence (birlikte geçme) ağı oluşturulmuş ve bağlantıların sıklığına göre kenar ağırlıkları hesaplanmıştır.
+- Karakterler arası ilişkilerin çıkarılmasında, kitap paragraflar bazında analiz edilmiş ve aynı paragraf içinde birlikte geçen karakterler birbiriyle bağlantılı kabul edilmiştir. Bu bağlantılar üzerinden bir co-occurrence (birlikte geçme) ağı oluşturulmuş ve bağlantıların sıklığına göre kenar ağırlıkları hesaplanmıştır.
 
 ## Özellikler
 - Herhangi bir kitap ile çalışma. (Bunun için kodlardaki kitap isimlerinin güncellenmesi yeterlidir.)
