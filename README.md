@@ -21,6 +21,8 @@
 
 ## Özellikler
 - Herhangi bir kitap ile çalışma. (Bunun için kodlardaki kitap isimlerinin güncellenmesi yeterlidir.)
+
+- Ayrıca ele alınan kitap ile ilgili olacak şekilde "titles" dizisi de güncellenebilir.
   
 ## Yorumlama
 - Ağ grafiği, karakterler arasındaki sıkı ve yoğun etkileşimleri net şekilde ortaya koydu.
